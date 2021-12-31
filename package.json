@@ -1,0 +1,22 @@
+{
+  "name": "file-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "xlsx": "node ./src/parseXlsx.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liumingzw/file-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liumingzw/file-parser/issues"
+  },
+  "homepage": "https://github.com/liumingzw/file-parser#readme",
+  "dependencies": {
+    "xlsx": "^0.17.4"
+  }
+}
